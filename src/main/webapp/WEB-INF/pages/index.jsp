@@ -36,7 +36,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#">Demo - Bespoke Suits for Dogs</a>
+        <a class="navbar-brand" href="#">CodePipeline - Demo - Shulan - Bespoke Suits for Dogs</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
